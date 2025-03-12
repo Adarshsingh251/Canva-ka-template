@@ -58,7 +58,7 @@ html,body{
     color: white;
     background-color: black;
 }
- .right-main{
+.right .right-main{
     height:65%;
     width:100%;
     position:absolute;
